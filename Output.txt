@@ -1,0 +1,6 @@
+ Output:
+ Enter city name : Delhi
+ Temperature = 312.15
+ Atmospheric pressure = 996
+ Humidity = 40
+ Description = haze
